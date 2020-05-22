@@ -1,5 +1,7 @@
 # Digital-Analog-Clock
 A simple Digital and Analog Clock Webpage using JavaScript
+# Use the link below to view
+https://taqnar.github.io/Digital-Analog-Clock/
 
 # ScreenShots
 
